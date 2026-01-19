@@ -175,7 +175,7 @@ Beautiful media browsing experience with seamless playback, requests, and person
 ### 🎯 Media Requests
 - **Request Management**
   - Request movies and TV shows
-  - Integration with Ombi/Overseerr
+  - Integration with Seerr
   - Track request status
   - View pending and approved requests
   - Request history
@@ -204,7 +204,7 @@ Beautiful media browsing experience with seamless playback, requests, and person
 <div align="center">
 
 ### 🎬 Media Requests
-**Ombi** • **Overseerr**
+**Seerr**
 
 ### 📥 Download Automation
 **Radarr** • **Sonarr** • **Prowlarr**
